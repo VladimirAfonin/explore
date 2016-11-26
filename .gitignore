@@ -10,4 +10,4 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
-# question: would log/archive/access.log ?
+# question: would log/archive/access.log ?  он не будет игнорироваться потому что у него есть под папка 'archive'.
